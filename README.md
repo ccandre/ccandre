@@ -1,18 +1,15 @@
-## Hi there 👋
+# Hello hi 👋
 
 I'm Andre a computer science graduate from the 🇵🇭
 
 
----
-
-Tools and Tech
+## Tools and Tech
 * Vue.js, JavaScript, React JS, Tailwind CSS
 * Laravel, SQL, MySQL, Python
 * Jira
 
----
 
-About me
+## About me
 * 🍛 Curry #1
 * 🎮 I like games
 * 🕓 Currently learning Playwright
